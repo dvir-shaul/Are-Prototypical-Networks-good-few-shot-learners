@@ -17,6 +17,6 @@ That it connects exactly to the concept of learning to learn since we do not pra
 
 
 
-
+![convolution](https://github.com/dvir-shaul/Are-Prototypical-Networks-good-few-shot-learners/blob/main/images%20for%20readme/embedding_CNN_1.jpg)
 
 ![poster](https://github.com/dvir-shaul/Are-Prototypical-Networks-good-few-shot-learners/blob/main/images%20for%20readme/poster.png)
